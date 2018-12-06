@@ -1,0 +1,1 @@
+node “C:\Users\luanaguiar\'~\.npm-global'\node_modules\json-server\bin\index.js” db.json
